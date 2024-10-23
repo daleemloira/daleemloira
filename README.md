@@ -1,6 +1,6 @@
 ### BOAS VINDAS AO MEU PERFIL
 
-- Meu nome é Viotr
+- Meu nome é Vitor
 
 - Estou estudando na aulura
 - Estou me desenvolvendo na liguagem JavaScript
