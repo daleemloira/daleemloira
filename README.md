@@ -2,8 +2,8 @@
 
 - Meu nome é Vitor
 
-- Estou estudando na aulura
-- Estou me desenvolvendo na liguagem JavaScript
+- Estou estudando na alura
+- Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 - ### VOCÊ ENTRAR EM CONTATO COMIGO
